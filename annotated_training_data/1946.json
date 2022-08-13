@@ -1,0 +1,58 @@
+{
+  "id": 1946,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "11\u00a0hours, 16\u00a0minutes",
+  "task": {
+    "id": 10635,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/A/A2_75.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:17:45.208410Z",
+    "updated_at": "2022-08-13T08:56:46.725354Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1477,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 26.562499999999993,
+        "y": 19.444444444444443,
+        "width": 30.625000000000007,
+        "height": 44.44444444444444,
+        "rotation": 0,
+        "rectanglelabels": [
+          "A Block"
+        ]
+      },
+      "id": "KZ-KOPFeMR",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-13T08:56:46.684254Z",
+  "updated_at": "2022-08-13T08:56:46.684276Z",
+  "lead_time": 2.532,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

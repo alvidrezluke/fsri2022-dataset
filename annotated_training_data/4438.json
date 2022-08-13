@@ -1,0 +1,58 @@
+{
+  "id": 4438,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "9\u00a0hours, 18\u00a0minutes",
+  "task": {
+    "id": 13056,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/E/E_1975.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:02.239929Z",
+    "updated_at": "2022-08-13T10:55:07.734699Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3898,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 16.875,
+        "y": 6.111111111111111,
+        "width": 39.0625,
+        "height": 55.55555555555556,
+        "rotation": 0,
+        "rectanglelabels": [
+          "E Block"
+        ]
+      },
+      "id": "e7Y1guKiK5",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-13T10:55:07.701204Z",
+  "updated_at": "2022-08-13T10:55:07.701225Z",
+  "lead_time": 1.971,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

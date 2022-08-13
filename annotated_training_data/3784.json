@@ -1,0 +1,58 @@
+{
+  "id": 3784,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "9\u00a0hours, 33\u00a0minutes",
+  "task": {
+    "id": 12409,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/E/E_1334.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:17:57.626498Z",
+    "updated_at": "2022-08-13T10:40:22.784689Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 3251,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 40,
+        "y": 15,
+        "width": 32.1875,
+        "height": 52.77777777777778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "E Block"
+        ]
+      },
+      "id": "Prgl9i-VFL",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-13T10:40:22.741374Z",
+  "updated_at": "2022-08-13T10:40:22.741392Z",
+  "lead_time": 1.97,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

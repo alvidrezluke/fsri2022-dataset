@@ -1,0 +1,37 @@
+{
+  "id": 5985,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "8\u00a0hours, 46\u00a0minutes",
+  "task": {
+    "id": 14593,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/I/I_185.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:13.272636Z",
+    "updated_at": "2022-08-13T11:28:14.189170Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 5435,
+    "total_annotations": 1,
+    "cancelled_annotations": 1,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [],
+  "was_cancelled": true,
+  "ground_truth": false,
+  "created_at": "2022-08-13T11:28:10.039866Z",
+  "updated_at": "2022-08-13T11:28:10.039885Z",
+  "lead_time": 0.489,
+  "parent_prediction": null,
+  "parent_annotation": null
+}
