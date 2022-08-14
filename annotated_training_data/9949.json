@@ -1,0 +1,158 @@
+{
+  "id": 9949,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "4\u00a0hours, 35\u00a0minutes",
+  "task": {
+    "id": 18095,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/Mix/PXL_20220801_183733561.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.703970Z",
+    "updated_at": "2022-08-14T02:38:32.137674Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8937,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 34.151785714285715,
+        "y": 30.58823529411765,
+        "width": 14.285714285714286,
+        "height": 10.588235294117647,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "0ROXjkTSPK",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 39.0625,
+        "y": 72.26890756302521,
+        "width": 31.696428571428573,
+        "height": 27.73109243697479,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "dnJQAMfN4h",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.482142857142854,
+        "y": 19.831932773109244,
+        "width": 9.151785714285714,
+        "height": 9.243697478991598,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "7W7KffT7ow",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 31.696428571428573,
+        "y": 14.789915966386555,
+        "width": 4.464285714285714,
+        "height": 3.5294117647058822,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "uITj4tWV2o",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 12.946428571428573,
+        "y": 13.949579831932773,
+        "width": 5.133928571428571,
+        "height": 3.193277310924369,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "8nOrXr6Unu",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.8928571428571429,
+        "y": 13.445378151260504,
+        "width": 4.017857142857144,
+        "height": 2.857142857142857,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "k_rK21f0Rx",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:38:32.103561Z",
+  "updated_at": "2022-08-14T02:38:32.103581Z",
+  "lead_time": 19.637,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

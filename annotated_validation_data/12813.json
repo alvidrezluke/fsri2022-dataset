@@ -1,0 +1,58 @@
+{
+  "id": 12813,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "10\u00a0minutes",
+  "task": {
+    "id": 22659,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/validation_data/BlocksWithoutVowels/test_PXL_20220801_183541949.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:21:38.529698Z",
+    "updated_at": "2022-08-14T07:27:22.572806Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 992,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 26.736842105263186,
+        "y": 43.4231378763867,
+        "width": 44.421052631578924,
+        "height": 35.49920760697306,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "jR50vL4hIy",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T07:27:22.486409Z",
+  "updated_at": "2022-08-14T07:27:22.486462Z",
+  "lead_time": 5.809,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

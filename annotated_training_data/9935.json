@@ -1,0 +1,98 @@
+{
+  "id": 9935,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "4\u00a0hours, 36\u00a0minutes",
+  "task": {
+    "id": 18046,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/duck/PXL_20220801_183417262.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.334091Z",
+    "updated_at": "2022-08-14T02:36:49.248675Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8888,
+    "total_annotations": 1,
+    "cancelled_annotations": 1,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 4080,
+      "original_height": 3072,
+      "image_rotation": 0,
+      "value": {
+        "x": 0,
+        "y": 4.120443740095087,
+        "width": 29.236276849642003,
+        "height": 46.11727416798731,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "bwQ1JBIZ1_",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 4080,
+      "original_height": 3072,
+      "image_rotation": 0,
+      "value": {
+        "x": 30.787589498806682,
+        "y": 24.088748019017434,
+        "width": 29.832935560859188,
+        "height": 44.84944532488115,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "EAOQ11I4F1",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 4080,
+      "original_height": 3072,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.64916467780429,
+        "y": 27.416798732171156,
+        "width": 26.968973747016708,
+        "height": 37.400950871632325,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "_R-Z2MhzAD",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:36:49.216373Z",
+  "updated_at": "2022-08-14T02:36:49.216395Z",
+  "lead_time": 23.694,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

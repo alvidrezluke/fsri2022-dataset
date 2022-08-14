@@ -1,0 +1,158 @@
+{
+  "id": 9955,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "4\u00a0hours, 34\u00a0minutes",
+  "task": {
+    "id": 18096,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/Mix/PXL_20220801_183735397.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.711687Z",
+    "updated_at": "2022-08-14T02:38:53.786643Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8938,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.10526315789474,
+        "y": 73.69255150554676,
+        "width": 37.89473684210527,
+        "height": 26.148969889064976,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "Z8EIs6TRms",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.68421052631579,
+        "y": 24.564183835182256,
+        "width": 15.157894736842104,
+        "height": 9.984152139461171,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "GsGGX1HG_x",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 74.31578947368422,
+        "y": 13.153724247226624,
+        "width": 10.526315789473683,
+        "height": 9.033280507131538,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "bNLm9UzRTs",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 47.578947368421055,
+        "y": 7.131537242472266,
+        "width": 4.421052631578948,
+        "height": 4.120443740095087,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "-GA3FNBPoC",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 29.68421052631579,
+        "y": 7.290015847860539,
+        "width": 3.789473684210526,
+        "height": 2.6941362916006346,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "Vx93i6Nm8B",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 17.68421052631579,
+        "y": 6.497622820919176,
+        "width": 2.736842105263158,
+        "height": 2.535657686212361,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "_ml8k88mCM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:38:53.698543Z",
+  "updated_at": "2022-08-14T02:38:53.698564Z",
+  "lead_time": 22.399,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

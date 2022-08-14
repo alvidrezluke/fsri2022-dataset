@@ -1,0 +1,78 @@
+{
+  "id": 9969,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "4\u00a0hours, 33\u00a0minutes",
+  "task": {
+    "id": 18114,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/A/PXL_20220801_183814826.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.849758Z",
+    "updated_at": "2022-08-14T02:39:58.821460Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8956,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.57894736842105,
+        "y": 44.21553090332805,
+        "width": 41.68421052631579,
+        "height": 33.914421553090335,
+        "rotation": 0,
+        "rectanglelabels": [
+          "A Block"
+        ]
+      },
+      "id": "IR3A_DEZey",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 16.21052631578947,
+        "y": 0,
+        "width": 19.36842105263158,
+        "height": 5.229793977812995,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "BtMiYykHOe",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:39:58.789304Z",
+  "updated_at": "2022-08-14T02:39:58.789349Z",
+  "lead_time": 7.322,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

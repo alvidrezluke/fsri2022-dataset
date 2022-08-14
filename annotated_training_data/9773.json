@@ -1,0 +1,78 @@
+{
+  "id": 9773,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "4\u00a0hours, 50\u00a0minutes",
+  "task": {
+    "id": 17967,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/Mix/PXL_20220801_182952072.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:50.725701Z",
+    "updated_at": "2022-08-14T02:22:52.439952Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8809,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.3125,
+        "y": 53.109243697479,
+        "width": 22.767857142857142,
+        "height": 18.65546218487395,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "YoAVos4-4U",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 7.589285714285713,
+        "y": 29.915966386554622,
+        "width": 14.0625,
+        "height": 11.260504201680675,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "1JfBgUwLAM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:22:52.403279Z",
+  "updated_at": "2022-08-14T02:22:52.403297Z",
+  "lead_time": 8.001,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

@@ -1,7 +1,7 @@
 {
   "id": 7129,
   "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
-  "created_ago": "35\u00a0minutes",
+  "created_ago": "11\u00a0hours, 34\u00a0minutes",
   "task": {
     "id": 15340,
     "data": {
@@ -9,15 +9,15 @@
     },
     "meta": {},
     "created_at": "2022-08-13T07:18:18.975363Z",
-    "updated_at": "2022-08-13T19:38:28.480033Z",
+    "updated_at": "2022-08-13T22:26:47.480849Z",
     "is_labeled": true,
     "overlap": 1,
     "inner_id": 6182,
-    "total_annotations": 1,
+    "total_annotations": 2,
     "cancelled_annotations": 0,
     "total_predictions": 0,
     "project": 1,
-    "updated_by": 1,
+    "updated_by": 2,
     "file_upload": null
   },
   "completed_by": {

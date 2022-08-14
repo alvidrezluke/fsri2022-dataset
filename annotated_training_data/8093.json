@@ -1,0 +1,78 @@
+{
+  "id": 8093,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "8\u00a0hours, 3\u00a0minutes",
+  "task": {
+    "id": 16290,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/O/O_1873.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:26.515814Z",
+    "updated_at": "2022-08-13T23:09:38.445301Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7132,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 5,
+        "y": 0,
+        "width": 27.187499999999993,
+        "height": 30.555555555555557,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "8Y7rD0TALI",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 54.6875,
+        "y": 54.44444444444444,
+        "width": 19.6875,
+        "height": 32.77777777777778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "O Block"
+        ]
+      },
+      "id": "Y8_NFeuT-s",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-13T23:09:34.606994Z",
+  "updated_at": "2022-08-13T23:09:38.406127Z",
+  "lead_time": 5.062,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

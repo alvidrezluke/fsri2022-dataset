@@ -1,0 +1,78 @@
+{
+  "id": 9961,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "4\u00a0hours, 34\u00a0minutes",
+  "task": {
+    "id": 18106,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/A/PXL_20220801_183800893.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.787970Z",
+    "updated_at": "2022-08-14T02:39:28.704070Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8948,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 28.21052631578948,
+        "y": 36.13312202852615,
+        "width": 38.526315789473685,
+        "height": 30.903328050713153,
+        "rotation": 0,
+        "rectanglelabels": [
+          "A Block"
+        ]
+      },
+      "id": "sZPojLBPH_",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 81.05263157894737,
+        "y": 1.5847860538827259,
+        "width": 16.63157894736842,
+        "height": 12.995245641838352,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "uOSRk1su1E",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:39:28.666547Z",
+  "updated_at": "2022-08-14T02:39:28.666575Z",
+  "lead_time": 7.19,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

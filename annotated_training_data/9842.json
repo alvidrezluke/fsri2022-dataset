@@ -1,0 +1,98 @@
+{
+  "id": 9842,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "4\u00a0hours, 42\u00a0minutes",
+  "task": {
+    "id": 18036,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/duck/PXL_20220801_183349381.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.258742Z",
+    "updated_at": "2022-08-14T02:31:26.049354Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8878,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 6.4732142857142865,
+        "y": 53.445378151260506,
+        "width": 35.714285714285715,
+        "height": 28.235294117647058,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "xeEt4DeGNO",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.080357142857146,
+        "y": 48.57142857142857,
+        "width": 41.964285714285715,
+        "height": 28.403361344537814,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "Lu6IW7L_pE",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 80.13392857142857,
+        "y": 39.15966386554622,
+        "width": 19.866071428571427,
+        "height": 23.697478991596633,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "XW0EIGK_p0",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:31:26.015285Z",
+  "updated_at": "2022-08-14T02:31:26.015302Z",
+  "lead_time": 7.367,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

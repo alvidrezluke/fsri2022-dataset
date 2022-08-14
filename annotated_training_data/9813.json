@@ -1,0 +1,58 @@
+{
+  "id": 9813,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "4\u00a0hours, 44\u00a0minutes",
+  "task": {
+    "id": 18007,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/BlocksWithoutVowels/PXL_20220801_183156446.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.033135Z",
+    "updated_at": "2022-08-14T02:29:17.394296Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8849,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 4080,
+      "original_height": 3072,
+      "image_rotation": 0,
+      "value": {
+        "x": 13.79746835443038,
+        "y": 23.025210084033613,
+        "width": 28.481012658227854,
+        "height": 36.134453781512605,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "lRPTrzfQUL",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:29:17.360931Z",
+  "updated_at": "2022-08-14T02:29:17.360948Z",
+  "lead_time": 7.072,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

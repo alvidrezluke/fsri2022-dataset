@@ -1,0 +1,58 @@
+{
+  "id": 10083,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "1\u00a0hour, 14\u00a0minutes",
+  "task": {
+    "id": 18229,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/U/PXL_20220801_184536597.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:52.741745Z",
+    "updated_at": "2022-08-14T05:59:29.861395Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9071,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 4080,
+      "original_height": 3072,
+      "image_rotation": 0,
+      "value": {
+        "x": 48.80668257756563,
+        "y": 31.85419968304279,
+        "width": 30.548926014319807,
+        "height": 39.77812995245642,
+        "rotation": 0,
+        "rectanglelabels": [
+          "U Block"
+        ]
+      },
+      "id": "dsclXBXExZ",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T05:59:29.740158Z",
+  "updated_at": "2022-08-14T05:59:29.740223Z",
+  "lead_time": 4.657,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

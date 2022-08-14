@@ -1,0 +1,58 @@
+{
+  "id": 9997,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "4\u00a0hours, 32\u00a0minutes",
+  "task": {
+    "id": 18144,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/BlocksWithoutVowels/PXL_20220801_184147096.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:52.083528Z",
+    "updated_at": "2022-08-14T02:41:07.066466Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8986,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 23.36842105263158,
+        "y": 41.20443740095087,
+        "width": 54.3157894736842,
+        "height": 37.24247226624406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "lcy7zuZAAG",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:41:07.033270Z",
+  "updated_at": "2022-08-14T02:41:07.033289Z",
+  "lead_time": 5.328,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

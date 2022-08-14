@@ -1,0 +1,98 @@
+{
+  "id": 9031,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "6\u00a0hours, 26\u00a0minutes",
+  "task": {
+    "id": 17223,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/O/O_2811.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:38.704085Z",
+    "updated_at": "2022-08-14T00:46:34.968018Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8065,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.5625,
+        "y": 22.22222222222222,
+        "width": 33.125,
+        "height": 52.77777777777778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "O Block"
+        ]
+      },
+      "id": "CjnK2ciFdN",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 26.875,
+        "y": 37.22222222222222,
+        "width": 7.5,
+        "height": 62.77777777777778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "_5uOfHb5VP",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 7.187499999999998,
+        "y": 0.5555555555555556,
+        "width": 20,
+        "height": 38.8888888888889,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "f-MoDHYaRF",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T00:46:34.930885Z",
+  "updated_at": "2022-08-14T00:46:34.930907Z",
+  "lead_time": 13.604,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

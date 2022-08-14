@@ -1,0 +1,78 @@
+{
+  "id": 9830,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "4\u00a0hours, 43\u00a0minutes",
+  "task": {
+    "id": 18024,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/Mix/PXL_20220801_183245622.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:51.167077Z",
+    "updated_at": "2022-08-14T02:30:30.686373Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 8866,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.973214285714285,
+        "y": 67.05882352941175,
+        "width": 23.4375,
+        "height": 20.672268907563023,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "EaGdAoa7Hs",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 69.19642857142857,
+        "y": 41.680672268907564,
+        "width": 15.178571428571425,
+        "height": 10.084033613445378,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "vl9wb5hCbK",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T02:30:30.654127Z",
+  "updated_at": "2022-08-14T02:30:30.654144Z",
+  "lead_time": 9.391,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

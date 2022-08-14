@@ -1,0 +1,78 @@
+{
+  "id": 10093,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "1\u00a0hour, 13\u00a0minutes",
+  "task": {
+    "id": 18239,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/Mix/PXL_20220801_184707043.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:18:52.818540Z",
+    "updated_at": "2022-08-14T06:01:14.202146Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 9081,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 34.94736842105263,
+        "y": 52.45641838351821,
+        "width": 29.68421052631579,
+        "height": 24.405705229793977,
+        "rotation": 0,
+        "rectanglelabels": [
+          "E Block"
+        ]
+      },
+      "id": "A-0J16Wbeu",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3072,
+      "original_height": 4080,
+      "image_rotation": 0,
+      "value": {
+        "x": 10.105263157894736,
+        "y": 9.508716323296357,
+        "width": 13.473684210526315,
+        "height": 12.678288431061807,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Consonant Block"
+        ]
+      },
+      "id": "INckQQhmzX",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T06:00:14.728610Z",
+  "updated_at": "2022-08-14T06:01:14.122354Z",
+  "lead_time": 58.655,
+  "parent_prediction": null,
+  "parent_annotation": null
+}
