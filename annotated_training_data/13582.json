@@ -1,0 +1,58 @@
+{
+  "id": 13582,
+  "created_username": "Luke Alvidrez alvidrezluke@gmail.com, 1",
+  "created_ago": "47\u00a0minutes",
+  "task": {
+    "id": 20588,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/duck/duck_1346.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:19:10.332404Z",
+    "updated_at": "2022-08-14T08:10:41.049629Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 11430,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 1,
+    "first_name": "Luke",
+    "last_name": "Alvidrez",
+    "email": "alvidrezluke@gmail.com"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 27.8125,
+        "y": 11.666666666666666,
+        "width": 49.375,
+        "height": 80,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "zWDfDhox4C",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T08:10:40.933827Z",
+  "updated_at": "2022-08-14T08:10:40.933857Z",
+  "lead_time": 1.757,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

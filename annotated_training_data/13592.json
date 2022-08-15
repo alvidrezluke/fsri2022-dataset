@@ -1,0 +1,58 @@
+{
+  "id": 13592,
+  "created_username": " astang@caltech.edu, 2",
+  "created_ago": "46\u00a0minutes",
+  "task": {
+    "id": 20598,
+    "data": {
+      "image": "/data/local-files/?d=programming/Robotics/label-studio/fsri2022-dataset/training_data/duck/duck_1356.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-08-13T07:19:10.393997Z",
+    "updated_at": "2022-08-14T08:11:00.675490Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 11440,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "project": 1,
+    "updated_by": 2,
+    "file_upload": null
+  },
+  "completed_by": {
+    "id": 2,
+    "first_name": "",
+    "last_name": "",
+    "email": "astang@caltech.edu"
+  },
+  "result": [
+    {
+      "original_width": 320,
+      "original_height": 180,
+      "image_rotation": 0,
+      "value": {
+        "x": 27.500000000000007,
+        "y": 17.77777777777778,
+        "width": 48.75,
+        "height": 72.77777777777776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Duck"
+        ]
+      },
+      "id": "Rg6BYcoCdm",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-08-14T08:11:00.604551Z",
+  "updated_at": "2022-08-14T08:11:00.604573Z",
+  "lead_time": 2.929,
+  "parent_prediction": null,
+  "parent_annotation": null
+}
